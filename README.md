@@ -26,7 +26,7 @@ Semantic segmentation is the task of classifying each pixel in an image into a p
 To get started with the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/semantic-segmentation.git
+git clone https://github.com/BelallSameh/Semantic-Segmentation.git
 cd semantic-segmentation
 ```
 
@@ -39,14 +39,19 @@ This project uses the [Cityscapes dataset](https://www.cityscapes-dataset.com/).
 
 Our model achieves impressive results on the Cityscapes validation set.
 
-## Contributing 🤝
-
-We welcome contributions from the community! If you want to contribute, please fork the repository and submit a pull request. Before contributing, please make sure to read our [contributing guidelines](CONTRIBUTING.md).
 
 ## Acknowledgements 🙏
 
 Special thanks to the [Cityscapes team](https://www.cityscapes-dataset.com/) for providing the dataset and to all the contributors who have helped improve this project.
 
----
+## 🤝 Contributing
 
-Happy coding! 😊 If you have any questions or feedback, feel free to open an issue or contact us directly through belalsameh188@gmail.com
+Contributions are welcome! Please:
+1. Fork the repo
+2. Create a new branch (`feature-branch`)
+3. Commit your changes (`'Add new feature'`)
+4. Push and open a pull request
+
+## 📬 Contact
+
+For any questions or issues, please contact belalsameh188@gmail.com or open an issue in the repository.
